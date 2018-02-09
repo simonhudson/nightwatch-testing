@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/simonhudson/nightwatch-testing/issues"
   },
-  "homepage": "https://github.com/simonhudson/nightwatch-testing#readme"
+  "homepage": "https://github.com/simonhudson/nightwatch-testing#readme",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "nightwatch": "*",
+    "nightwatch-custom-commands-assertions": "^1.1.0",
+    "selenium-webdriver": "^3.5.0"
+  }
 }

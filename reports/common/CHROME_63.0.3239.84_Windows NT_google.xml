@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="common.google"
+    errors="0" failures="0" hostname="" id="" package="common" skipped="0"
+    tests="1" time="6.997" timestamp="Fri, 09 Feb 2018 08:10:55 GMT">
+  
+    <testcase name="demoTestGoogle" classname="common.google" time="6.997" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
